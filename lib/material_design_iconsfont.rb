@@ -1,5 +1,8 @@
 require "material_design_iconsfont/version"
 
 module MaterialDesignIconsfont
-  # Your code goes here...
+  module Rails
+    class Engine < ::Rails::Engine
+    end
+  end
 end
