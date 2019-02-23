@@ -6,12 +6,12 @@ require "material_design_iconsfont/version"
 Gem::Specification.new do |spec|
   spec.name          = "material_design_iconsfont"
   spec.version       = MaterialDesignIconsfont::VERSION
-  spec.authors       = ["anandbait"]
+  spec.authors       = ["AquisTech (Anand Bait)"]
   spec.email         = ["anand.bait@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "The Material Design Icons font bundled as an asset for the rails asset pipeline."
+  spec.description   = "The Material Design Icons font bundled as an asset for the rails asset pipeline."
+  spec.homepage      = "https://github.com/AquisTech/material_design_iconsfont"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
